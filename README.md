@@ -1,3 +1,3 @@
 # Hello World!
 
-## Check back in soon! I'm really beginning to get the hang of this whole 'coding' thing.
+## Keep your eyes out for this GitHub, I'm really beginning to get the hang of this whole 'coding' thing.
