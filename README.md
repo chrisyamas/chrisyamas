@@ -1,4 +1,4 @@
-### Hello World! 🌍 I'm a Data Engineer & Developer who cares about social impact.
+### I'm a Data Engineer & Developer who cares about social impact.
 
 Combining a deep passion for data engineering with full-stack development skills, I am a proactive problem-solver who excels in creating efficient, scalable, and clean solutions in complex data environments. My technical prowess is rooted in a broad range of languages like Python, SQL, R, and JavaScript, and further complemented by my proficiency with tools like Apache Spark, AWS, Django, Docker, and many more.
 
