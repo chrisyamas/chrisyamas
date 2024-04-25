@@ -4,7 +4,7 @@ Combining a deep passion for data engineering with full-stack development skills
 
 🔍 **Professional Snapshot:**
 - 🛠️ **Technical Skills:** Adept in multiple languages including Python, SQL, and JavaScript, with a toolkit that includes AWS, Apache Spark, Docker, and Tableau.
-- 🚀 **Professional Projects:** As a Data Engineer & Repo Administrator at Open States, I have supported aggregation of legislative data across the U.S. and Africa, where I oversaw the scraping, standardization, and cleaning of policy data. This has included reviewing and approving 75+ PRs from other data engineers, and individually contributing 500+ commits in ~100 PRs in just ten months.
+- 🚀 **Professional Projects:** As a Data Engineer & Repo Administrator at Open States, I have supported aggregation of legislative data across the U.S. and Africa, where I oversaw the scraping, standardization, and cleaning of policy data. This has included reviewing and approving 75+ PRs from other data engineers, and individually contributing 500+ commits in ~100 PRs.
 - 💡 **Work Experience:** At Plural, I focused on improving data quality through PostgreSQL and collaborating closely with pipeline teams to manage data effectively. I also played a key role at DAS-Technologies, where I executed SQL Server queries for business client data integration. Check out my [LinkedIn](https://www.linkedin.com/in/chrisyamas/) for more on my background!
 
 🌟 **What Drives Me:**
